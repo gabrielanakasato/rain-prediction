@@ -1,2 +1,2 @@
-date,location,maxtemp,evaporation_final,sunshine_final,humidity9am_final,humidity3pm_final,pressure9am,pressure3pm,cloud9am,cloud3pm_final,temp9am,temp3pm,precipitation3pm,precipitation9am,wind_gustspeed_complete_final,wind_speed9am_complete_final,wind_speed3pm_complete,raintoday_int,raintomorrow_int,wind_gustdir_complete_final_int,wind_dir9am_complete_final_int,wind_dir3pm_complete_final_int
-2017-06-25,MelbourneAirport,13.9,2.8,3.8,72.0,58.0,1017.8,1015.5,7.0,7.0,8.1,12.2,11,11.4777250315237,44.0,26.0,13.0,0,0,15,0,14
+date,location,maxtemp,evaporation_final,sunshine_final,humidity9am_final,humidity3pm_final,pressure9am,pressure3pm,cloud9am,cloud3pm_final,temp9am,temp3pm,precipitation3pm,precipitation9am,wind_speed9am_complete_final,wind_speed3pm_complete,wind_dir9am_complete_final_int,wind_dir3pm_complete_final_int,raintoday_int,raintomorrow_int
+2017-06-25,MelbourneAirport,13.9,2.8,3.8,72.0,58.0,1017.8,1015.5,7.0,7.0,8.1,12.2,11,11.4777250315237,26.0,13.0,0,14,0,0

@@ -1,0 +1,2 @@
+model,precision_train_mean,precision_train_std,precision_val_mean,precision_val_std,recall_train_mean,recall_train_std,recall_val_mean,recall_val_std
+baseline,0.7038366863484762,0.006361490466137392,0.6708720359155143,0.05213331609901295,0.4795606116497047,0.0078297215888389,0.44459984459984464,0.062457972268820085
