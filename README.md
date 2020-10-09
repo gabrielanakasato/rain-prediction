@@ -1,4 +1,9 @@
-# Rain Prediction 🌧️
+
+<h1 align="center">🌧️Rain Prediction 🌧️</h1>
+
+<p align="center">
+  <img src="https://github.com/gabrielanakasato/rain-prediction/blob/main/fig/Will%20it%20rain%20tomorrow_.gif">
+</p>
 
 ## Description
 This project was created to practice Machine Learning.
