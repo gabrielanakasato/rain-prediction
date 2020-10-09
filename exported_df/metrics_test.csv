@@ -1,2 +1,2 @@
-model,accuracy_test,precision_test,recall_test,auc_test
-baseline,0.8389830508474576,0.7093023255813954,0.46564885496183206,0.8532821101298873
+model,precision_test,recall_test
+baseline,0.7093023255813954,0.46564885496183206
