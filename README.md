@@ -74,6 +74,9 @@ _Develop the final model._
    - **Not all features are available right now**.
 
 ## Results
+- The probability of **not rain** tomorrow it's:0.74228993;<br>
+- The probability of **rain** tomorrow it's: 0.25771007;<br>
+> On 25/06/2017 probaly **will not rain**.
 
 ## Authors
 [Letícia Fossato](https://github.com/leticiafossato)
