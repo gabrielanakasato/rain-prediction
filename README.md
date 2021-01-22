@@ -9,7 +9,7 @@
 This project was created to practice Machine Learning.
 
 ## Project Status
-:white_large_square: In Progress
+:white_check_mark: Complete
 
 ## Table of Content
 - [Objective](#objective)
